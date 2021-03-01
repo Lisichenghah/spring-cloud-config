@@ -3,3 +3,5 @@ server:
 spring:
   application:
     name: config-service-test
+config:
+  info: "test config info"
